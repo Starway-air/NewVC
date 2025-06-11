@@ -16,4 +16,4 @@
  - Verilog：[iverilog](https://github.com/steveicarus/iverilog)
 
 系统工作流程如图所示：
-[resources/anounce/intro.svg](https://raw.github.com/Starway-air/NewVC/blob/main/resources/anounce/intro.svg)
+[resources/anounce/intro.svg](https://github.com/Starway-air/NewVC/raw/main/resources/anounce/intro.svg)
