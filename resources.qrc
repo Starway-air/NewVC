@@ -1,0 +1,21 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/images">
+        <file>resources/icons/drop.svg</file>
+        <file>resources/icons/drop-white.svg</file>
+        <file>resources/icons/chat.svg</file>
+        <file>resources/icons/about.svg</file>
+        <file>resources/icons/log.svg</file>
+        <file>resources/icons/set.svg</file>
+        <file>resources/icons/ouricon.svg</file>
+        <file>resources/icons/ouricon.png</file>
+        <file>resources/icons/person.png</file>
+        <file>resources/icons/person1.png</file>
+        <file>resources/icons/loading.gif</file>
+        <file>resources/icons/loading1.gif</file>
+        <file>resources/icons/loading2.gif</file>
+        <file>resources/icons/loading3.gif</file>
+        <file>resources/icons/loading4.gif</file>
+        <!-- 添加更多资源文件 -->
+    </qresource>
+</RCC>
