@@ -14,3 +14,6 @@
 需要预先设置好的代码编译器为：
  - C++：[MingW](https://github.com/niXman/mingw-builds-binaries)
  - Verilog：[iverilog](https://github.com/steveicarus/iverilog)
+
+系统工作流程如图所示：
+[resources/anounce/intro.svg](https://raw.github.com/Starway-air/NewVC/blob/main/resources/anounce/intro.svg)
