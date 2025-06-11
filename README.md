@@ -10,6 +10,7 @@
  - pydantic
  - tavily_python
  - pyside6
+   
 需要预先设置好的代码编译器为：
  - C++：[MingW](https://github.com/niXman/mingw-builds-binaries)
  - Verilog：[iverilog](https://github.com/steveicarus/iverilog)
